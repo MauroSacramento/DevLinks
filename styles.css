@@ -58,6 +58,10 @@ body * {
   margin-top: 8px;
 }
 
+.light #profile p, .light ul li a{
+  font-weight: 700;
+}
+
 /*Switch*/
 #switch{
   position: relative;
